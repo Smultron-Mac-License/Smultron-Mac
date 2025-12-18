@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/15114/m/phplpufvt-logo.png?v=1758013775" width="200" alt="Smultron macOS application icon"><br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Smultron.png" width="200" alt="Smultron macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/Smultron">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Smultron macOS page">
  </a><br><br>
