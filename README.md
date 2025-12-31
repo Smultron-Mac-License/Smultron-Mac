@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Smultron.png" width="200" alt="Smultron macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Smultron">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Smultron">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Smultron macOS page">
  </a><br><br>
  <div align="center">
